@@ -42,7 +42,6 @@ Evaluate the model with the testing data
 STEP 10:
 Fit the model and predict the single input
 
-Write your own steps
 
 ## PROGRAM
 
